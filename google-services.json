@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "871686264752",
+    "firebase_url": "https://mobatxt.firebaseio.com",
+    "project_id": "mobatxt",
+    "storage_bucket": "mobatxt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871686264752:android:57e5a4fcaa8afa6c",
+        "android_client_info": {
+          "package_name": "br.com.mobatxt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871686264752-g3n81rvnk867a7fmqc8hc2ctvpc0eil9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxRdqKahOtBupmuNoAIb3S5Nl80jOdSP4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
