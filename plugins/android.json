@@ -1,0 +1,43 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "br.com.mobatxt"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "br.com.mobatxt"
+    },
+    "cordova-plugin-buildinfo": {
+      "PACKAGE_NAME": "br.com.mobatxt"
+    },
+    "cordova-universal-links-plugin": {
+      "PACKAGE_NAME": "br.com.mobatxt"
+    },
+    "cordova-plugin-browsertab": {
+      "PACKAGE_NAME": "br.com.mobatxt"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "br.com.mobatxt"
+    },
+    "cordova-plugin-customurlscheme": {
+      "URL_SCHEME": "br.com.mobatxt",
+      "ANDROID_SCHEME": " ",
+      "ANDROID_HOST": " ",
+      "ANDROID_PATHPREFIX": "/",
+      "PACKAGE_NAME": "br.com.mobatxt"
+    },
+    "cordova-plugin-console": {
+      "PACKAGE_NAME": "br.com.mobatxt"
+    },
+    "cordova-plugin-firebase": {
+      "PACKAGE_NAME": "br.com.mobatxt"
+    }
+  },
+  "dependent_plugins": {}
+}

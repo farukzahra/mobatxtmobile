@@ -1,0 +1,4 @@
+#Fri Nov 16 19:29:21 BRST 2018
+base.0=C\:\\vue_apps\\mobatxtmobile\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
